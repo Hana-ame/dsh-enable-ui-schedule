@@ -1,0 +1,6 @@
+# Override one shipped dsh-web-app row. `name` asserts the package so a typo in
+# the id fails loudly instead of silently skipping the patch. The row carries no
+# config, so `config` is left untouched by the wholesale-replace rule.
+- id: ui-schedule
+  name: '@deepseek-ai/dsh-client-ui-schedule'
+  disabled: false
