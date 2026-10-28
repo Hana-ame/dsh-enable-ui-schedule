@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Automation Tasks Panel",
+    "description": "Re-enables the shipped ui-schedule row so the sidebar Automation tasks panel and session reminder clock register again."
+  }
+}

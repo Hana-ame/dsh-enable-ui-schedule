@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "自动化任务面板",
+    "description": "重新启用 dsh-web-app 里被关闭的 ui-schedule 行，让侧边栏「自动化任务」面板和会话提醒时钟恢复注册。"
+  }
+}
