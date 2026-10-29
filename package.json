@@ -1,5 +1,5 @@
 {
-  "name": "@local/enable-ui-schedule",
+  "name": "dsh-enable-ui-schedule",
   "version": "1.0.0",
   "description": "Re-enable the shipped dsh-web-app ui-schedule row: it resolves disabled in the shipped bundle patch, so the sidebar 'Automation tasks' panel and the Session reminder clock never register. The Host schedule service (@deepseek-ai/dsh-schedule) is already active; only the Client half was dark.",
   "private": true,
